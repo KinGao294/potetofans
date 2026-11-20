@@ -1,0 +1,200 @@
+{
+  "site": {
+    "name": "potetofans",
+    "tagline_zh": "为土豆女神打 Call 的非官方粉丝应援站",
+    "unofficial": true,
+    "repo": "https://github.com/KinGao294/potetofans",
+    "domain_status": "potetofans.com 等尚未购买，先用预览域名",
+    "language": "zh-CN, keep English original titles and quotes"
+  },
+  "person": {
+    "x_username": "poteto",
+    "x_url": "https://x.com/poteto",
+    "x_display_name": "lauren",
+    "community_nickname_zh": "土豆女神",
+    "official_blog_name": "Lauren Tan",
+    "official_blog": "https://www.no.lol/",
+    "official_speaking": "https://www.no.lol/speaking/",
+    "speakerdeck": "https://speakerdeck.com/poteto",
+    "current_x_bio_as_of_2026-11-19": "grok @bot at @SpaceXSI. react compiler core team, prev cursor, meta, netflix",
+    "x_affiliation_badge": "SpaceX Super Intelligence",
+    "x_created_at": "2014-09-26",
+    "verified": "X verified_type=blue, public account, not protected",
+    "do_not_use_as_current_job": "no.lol homepage still says Software Engineer at Facebook / previously Engineering Manager at Netflix; treat as historical/possibly outdated site copy, not current title.",
+    "official_talk_credit": "YouTube and AI Engineer talk page credit: Lauren Tan, SpaceXSI"
+  },
+  "photos": [
+    {
+      "id": "nolol-speaking",
+      "file": "/workspace/potetofans/assets/official/nolol-profile.webp",
+      "kind": "official_portrait",
+      "ai_generated": false,
+      "caption_zh": "公开演讲现场照",
+      "source_page": "https://www.no.lol/",
+      "source_label": "官方博客 no.lol 头像/简介照片"
+    },
+    {
+      "id": "x-avatar",
+      "file": "/workspace/potetofans/assets/official/x-avatar-400.jpg",
+      "kind": "official_avatar_illustration",
+      "ai_generated": false,
+      "caption_zh": "X 官方头像（插画，不是实拍）",
+      "source_page": "https://x.com/poteto",
+      "source_label": "X 公开头像"
+    },
+    {
+      "id": "talk-thumb-aie-2026",
+      "file": "/workspace/potetofans/assets/official/talk-aie-2026-thumb.jpg",
+      "kind": "official_talk_thumbnail",
+      "ai_generated": false,
+      "caption_zh": "AI Engineer CODE 2026 演讲封面",
+      "source_page": "https://www.youtube.com/watch?v=O_zcc6Xl12g",
+      "source_label": "官方 YouTube 视频封面"
+    },
+    {
+      "id": "x-banner-cat",
+      "file": "/workspace/potetofans/assets/official/x-banner-1500.jpg",
+      "kind": "official_banner",
+      "ai_generated": false,
+      "caption_zh": "X 主页背景图（门铃猫）",
+      "source_page": "https://x.com/poteto",
+      "source_label": "X 公开主页横幅"
+    },
+    {
+      "id": "x-cybercab-0",
+      "file": "/workspace/potetofans/assets/official/x-2123090924406505846-0.jpg",
+      "kind": "public_moment_not_portrait",
+      "ai_generated": false,
+      "caption_zh": "她公开分享的 Cybercab 乘坐照片（车，不是人像）",
+      "source_page": "https://x.com/poteto/status/2123090924406505846",
+      "source_label": "X 公开帖 2026-11-18：my first cybercab ride! so cool"
+    },
+    {
+      "id": "x-cybercab-1",
+      "file": "/workspace/potetofans/assets/official/x-2123090924406505846-1.jpg",
+      "kind": "public_moment_not_portrait",
+      "ai_generated": false,
+      "caption_zh": "她公开分享的 Cybercab 乘坐照片（车，不是人像）",
+      "source_page": "https://x.com/poteto/status/2123090924406505846",
+      "source_label": "X 公开帖 2026-11-18"
+    },
+    {
+      "id": "x-crocs-aie",
+      "file": "/workspace/potetofans/assets/official/x-2120576177169637429-0.jpg",
+      "kind": "public_moment_not_portrait",
+      "ai_generated": false,
+      "caption_zh": "AIE 演讲当天她公开分享的 Crocs 照片（鞋子特写，不是人像）",
+      "source_page": "https://x.com/poteto/status/2120576177169637429",
+      "source_label": "X 公开帖 2026-11-11"
+    }
+  ],
+  "talks": [
+    {
+      "id": "aie-code-2026",
+      "title": "All Code Is Slop (Except Mine)",
+      "event": "AI Engineer CODE 2026",
+      "date": "2026-11-11",
+      "video_youtube": "https://www.youtube.com/watch?v=O_zcc6Xl12g",
+      "official_talk_page": "https://ai.engineer/code/2026/talks/lauren-tan",
+      "announcement_post": "https://x.com/poteto/status/2121673563489140863",
+      "earlier_announcement": "https://x.com/poteto/status/2119841446308221152",
+      "checkin_eligible": true,
+      "highlights_zh": [
+        "官方演讲页与 YouTube 标题署名为 Lauren Tan, SpaceXSI。",
+        "她在预告帖中自述：这次会讲 grok @bot 团队如何在不牺牲质量的前提下，上个月 ship 了 11,000 个 PR。",
+        "封面标题为 Review Proof, Not Code。"
+      ],
+      "quotes_to_use_only_if_sourced": "Do not invent quotes. Short quotes only from her own public announcement posts or clearly attributed official talk materials. Prefer linking to the video over long transcripts."
+    }
+  ],
+  "historical_talks_no_video_verified": {
+    "source": "https://www.no.lol/speaking/ and https://speakerdeck.com/poteto",
+    "note": "Include as a secondary list with official speaking page / Speaker Deck links. Do not invent YouTube embeds. Dates and titles must come from those official pages.",
+    "examples": [
+      "js.la Meetup — Just Use Any: js.la Edition (2020-01-30, Los Angeles)",
+      "TSConf — Just Use Any: How to Win Colleagues & Influence Your Boss (2019-10-11, Seattle)",
+      "dotJS / Reactathon / React Rally — Learning to Love Type Systems (2018)",
+      "EmberConf, ElixirConf, Code Europe and other talks listed on her official speaking page"
+    ]
+  },
+  "articles": [
+    {
+      "id": "automate-anything-grok-bot",
+      "title": "Automate Anything with Grok Bot",
+      "date": "2026-11-18",
+      "url": "https://x.com/poteto/status/2123159537016533493",
+      "platform": "X article",
+      "checkin_eligible": true,
+      "guide_zh": "她写了如何用 Grok Bot 自动化各种事情。站点只做短导读，阅读必须跳转原文。"
+    },
+    {
+      "id": "this-time-is-different",
+      "title": "This Time Is Different",
+      "date": "2020-05-12",
+      "url": "https://www.no.lol/",
+      "need_exact_permalink": true,
+      "platform": "no.lol",
+      "checkin_eligible": true
+    },
+    {
+      "id": "does-it-spark-joy",
+      "title": "Does It Spark Joy?",
+      "date": "2020-02-17",
+      "url": "https://www.no.lol/2020-01-17-does-it-spark-joy/",
+      "platform": "no.lol",
+      "checkin_eligible": true,
+      "guide_zh": "她写下离开 Netflix 管理岗位、回到软件工程师身份的决定。"
+    },
+    {
+      "id": "type-narrowing",
+      "title": "Type Narrowing in TypeScript",
+      "date": "2019-12-28",
+      "url": "https://www.no.lol/2019-12-27-type-narrowing/",
+      "platform": "no.lol",
+      "checkin_eligible": true
+    },
+    {
+      "id": "engineering-interviews",
+      "title": "#2 Maximizing Success in Engineering Interviews",
+      "date": "2019-03-25",
+      "url": "https://www.no.lol/2019-03-25-maximizing-success-in-engineering-interviews/",
+      "platform": "no.lol",
+      "checkin_eligible": true
+    },
+    {
+      "id": "tech-lead",
+      "title": "#1 Should I Become a Tech Lead?",
+      "date": "2019-03-09",
+      "url": "https://www.no.lol/2019-03-09-should-i-become-a-tech-lead/",
+      "platform": "no.lol",
+      "checkin_eligible": true
+    },
+    {
+      "id": "engineers-guide-to-communication",
+      "title": "An Engineer’s Guide to Communication",
+      "date": "2018-02-26",
+      "url": "https://www.no.lol/",
+      "need_exact_permalink": true,
+      "platform": "no.lol",
+      "checkin_eligible": true
+    }
+  ],
+  "do_not_link": [
+    "Do not use third-party reprint sites such as pstack.ganhai.cloud that copy her writing word for word.",
+    "Do not invent additional articles or talks."
+  ],
+  "challenge": {
+    "name_zh": "挑战区",
+    "submit_own_pr": true,
+    "monthly_goal": 2000,
+    "framing_zh": "这是粉丝发起的非官方挑战，不是她本人或 SpaceXSI / Grok Bot 的官方活动。灵感来自她公开演讲里谈到的高质量、高吞吐出 PR 文化，尤其是 AI Engineer CODE 2026 演讲 All Code Is Slop (Except Mine)，以及她预告帖中关于团队一个月 11,000 个 PR 的自述。站点把月度目标设为 2000 个 PR，供粉丝挑战自己。",
+    "features": [
+      "个人月度进度环/进度条：本月已提交（本地记录的公开 GitHub PR 链接数）/ 2000",
+      "提交自己的 PR：粘贴公开 GitHub pull request URL，校验格式后写入浏览器 localStorage，展示列表（仓库名、PR 号、提交日期）",
+      "可一键复制或生成挑战卡（例如 November 2026 · 12 / 2000 PRs · Unofficial Fan Challenge），导出 PNG",
+      "显著入口引导给现有仓库 https://github.com/KinGao294/potetofans 提交 PR（文档、文案、无障碍、样式都可以），但这不是唯一允许提交的仓库",
+      "只接受公开 PR 链接；不要求站点登录；不做付费会员；不做官方认证证书；不把别人的 PR 自动记到排行榜（一期不做公开排行榜，避免刷榜和隐私问题）",
+      "进度说明必须写清：这是你在本机记录的挑战进度，不是官方统计，也不等同于她或她团队的产出"
+    ]
+  }
+}
